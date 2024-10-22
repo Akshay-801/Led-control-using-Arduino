@@ -1,4 +1,8 @@
-# Led-control-using-Arduino
+### NAME : AKSHAY M
+### REG.NO : 24900489
+
+
+# Experiment 1 - Led control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
