@@ -72,7 +72,11 @@ Weighing Machines </br>
 
 
 ## OUTPUT
+
+### LED ON
 <img src="https://github.com/user-attachments/assets/d8b3a7aa-ebf3-4d97-bf53-9b7a2f8e420b" width="400"/>
+
+### LED OFF
 <img src="https://github.com/user-attachments/assets/d32a6bee-18f2-483c-9448-16bc73b8737b" width="400"/>
 
 
