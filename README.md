@@ -46,6 +46,7 @@ The pullup resistor is nothing but a high-value resistor connecting to the Ardui
 
 ### Led
 LED is a semiconductor light source. It consists of a PN Junction Diode and when voltage is applied to the LED, electrons and holes recombine in the PN Junction and release energy in the form of light (Photons).The light emitted by an LED is usually monochromatic i.e. of single color and the color is dependent on the energy band gap of the semiconductor.Light Emitting Diodes can be manufactured to emit all the wavelengths of visible spectrum i.e. from Red (620nm to 750nm) to blue – violet (380nm to 490nm).The electrical symbol of an LED is similar to that of a PN Junction Diode
+
 <img src="https://github.com/anishkumar-Embedded/Led-control-using-Arduino/assets/71547910/d7a70bbf-453c-47af-9215-9a6e252f9503" width="400"/>
 
 ### Working 
@@ -67,11 +68,13 @@ Weighing Machines </br>
 
 ## PROGRAM
 
-<img src="https://github.com/user-attachments/assets/30ae9cc3-fd0e-4a4e-bda9-a14815025472" width="400"/>
+<img src="https://github.com/user-attachments/assets/282656ca-f1a2-4b91-847c-e6154e1fab95" width="400"/>
 
 
 ## OUTPUT
-<img src="https://github.com/user-attachments/assets/1f7d14fd-ee96-44f2-8adf-dcf63a0993ab" width="400"/>
-<img src="https://github.com/user-attachments/assets/fc1c448a-3edf-4270-bac2-1e737040e6eb" width="400"/>
-## RESULT
+<img src="https://github.com/user-attachments/assets/d8b3a7aa-ebf3-4d97-bf53-9b7a2f8e420b" width="400"/>
+<img src="https://github.com/user-attachments/assets/d32a6bee-18f2-483c-9448-16bc73b8737b" width="400"/>
+
+
+### RESULT
 A system for LED control was successfully designed and implemented using an Arduino microcontroller and a push button. The system allows for manual control of the LED state (on/off) through a simple press of the button.
