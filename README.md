@@ -68,7 +68,31 @@ Weighing Machines </br>
 
 ## PROGRAM
 
-<img src="https://github.com/user-attachments/assets/282656ca-f1a2-4b91-847c-e6154e1fab95" width="400"/>
+```
+
+int a =0;
+void setup() {
+  // put your setup code here, to run once:
+pinMode(2,INPUT);
+pinMode(13,OUTPUT);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+a=digitalRead(2);
+if (a == HIGH )
+{
+digitalWrite(13,HIGH);
+
+}
+else
+{
+digitalWrite(13,LOW);
+ 
+}
+}
+
+```
 
 
 ## OUTPUT
